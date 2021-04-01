@@ -8,7 +8,7 @@ window.onload = function()
 }  
 function left() 
 {
-    posX -= 1;
+    posX -= 20;
     obj.style.left = posX + "px";
 }
 function right() 
